@@ -1,4 +1,4 @@
-# P6: Hand-Controlled Media Player Using OpenCV and MediaPipe
+# P3: Hand-Controlled Media Player Using OpenCV and MediaPipe
 
 # Importing required libraries
 import cv2  # For video capturing and image processing
